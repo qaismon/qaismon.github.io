@@ -3,21 +3,29 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-    background: url(header.jpg) no-repeat center center fixed; 
+    background: url(https://c0.wallpaperflare.com/preview/655/269/228/sea-night-ocean-dark.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
+p{
+  font-size: 1rem;
+  color: gray;
+  text-align: center;
+}
+
 .buffer{
-  height: 12rem;
+  height: 10rem;
 }
 
 h1{
   font-size: 3rem;
   color: white;
 }
+
+
 
 hr {
     margin: 20px auto;
